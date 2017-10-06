@@ -6,8 +6,8 @@ issd good and interesting
 i am a 14-year-old middle school student who loves web front-end editing.
 also i like editing videos, especially Flash funny stories.
 ### My website
-[Click here to access](http://imbottle.com)
-[Welcome to +1s (1 stone)](http://pool.imbittle.com)
+[Click here to access](https://imbottle.com)
+[Welcome to +1s (1 stone)](https://imbottle.com/pool)
 ### My friends
 @EntropyIncreaser
 @ycwei982
